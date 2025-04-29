@@ -1,2 +1,4 @@
 git initialized successfully
 git task1 completed
+git checking completely
+
