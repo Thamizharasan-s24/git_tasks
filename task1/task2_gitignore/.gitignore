@@ -1,0 +1,5 @@
+# Ignore secrets and logs
+secrets.txt
+logs/
+*.log
+
