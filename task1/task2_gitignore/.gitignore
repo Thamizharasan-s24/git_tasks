@@ -2,4 +2,5 @@
 secrets.txt
 logs/
 *.log
+secret1.txt
 
